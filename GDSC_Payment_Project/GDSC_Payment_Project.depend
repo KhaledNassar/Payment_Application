@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1715300575 source:d:\study\self learning\gdsc es course\c project\gdsc_payment_project\card.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+	"card.h"
+
+1715301540 source:d:\study\self learning\gdsc es course\c project\gdsc_payment_project\server.c
+	<stdio.h>
+	<stdlib.h>
+	"server.h"
+	"types.h"
+	"card.h"
+	"terminal.h"
+
+1715300555 source:d:\study\self learning\gdsc es course\c project\gdsc_payment_project\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"types.h"
+	"terminal.h"
+	"card.h"
+
+1715301658 source:d:\study\self learning\gdsc es course\c project\gdsc_payment_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1715300433 d:\study\self learning\gdsc es course\c project\gdsc_payment_project\types.h
+
+1715300564 d:\study\self learning\gdsc es course\c project\gdsc_payment_project\card.h
+	"types.h"
+
+1715300597 d:\study\self learning\gdsc es course\c project\gdsc_payment_project\main.h
+	"types.h"
+	"card.h"
+	"terminal.h"
+	"server.h"
+	<windows.h>
+
+1715300541 d:\study\self learning\gdsc es course\c project\gdsc_payment_project\terminal.h
+	"types.h"
+	"card.h"
+
+1715300473 d:\study\self learning\gdsc es course\c project\gdsc_payment_project\server.h
+	"types.h"
+	"card.h"
+	"terminal.h"
+
